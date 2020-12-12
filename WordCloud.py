@@ -1,6 +1,6 @@
 import jieba
 import wordcloud
-f = open("文章.txt", "r", encoding="utf-8")
+f = open("wenzhang4.txt", "r", encoding="utf-8")
  
 t = f.read()
 f.close()
